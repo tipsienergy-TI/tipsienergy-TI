@@ -4,7 +4,7 @@
   
   **Tecnologia, Infraestrutura e Inovação em Energia**
 
-  [![Website](https://img.shields.io/badge/Website-psienergy.com-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://psienergy.com)
+  [![Website](https://img.shields.io/badge/Website-psienergy.com-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.psienergy.com.br/)
   [![Status](https://img.shields.io/badge/TI_&_Infra-Ativo-333333?style=for-the-badge&logo=github&logoColor=white)](#)
 </div>
 
