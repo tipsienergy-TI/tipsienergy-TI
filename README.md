@@ -8,12 +8,12 @@
   [![Status](https://img.shields.io/badge/TI_&_Infra-Ativo-333333?style=for-the-badge&logo=github&logoColor=white)](#)
 </div>
 
----
+<img src="./linha-psi.svg" width="100%" height="4" alt="Linha divisória" />
 
 ### ⚡ Sobre a PSI Energy
 Bem-vindo ao perfil oficial de Tecnologia da Informação e Desenvolvimento da **PSI Energy**. Este espaço centraliza nossos projetos internos, ferramentas de automação, portais corporativos e soluções voltadas à eficiência operacional.
 
----
+<img src="./linha-psi.svg" width="100%" height="4" alt="Linha divisória" />
 
 ### 🛠️ O que desenvolvemos e gerenciamos
 
